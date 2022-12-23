@@ -2,8 +2,10 @@
     {
         "title": "Фракции",
         "elements": [
-            "title": "Армия",
-            "name": "pages/fractions/army.md"
+            {
+                "title": "Армия",
+                "name": "pages/fractions/army.md"
+            }
         ]
     }
 ]
