@@ -1,10 +1,23 @@
 [
     {
+        "title": "Начало",
+        "elements": [
+            {
+                "title": "С чего начать?",
+                "name": "pages/general/howtostart.md"
+            }
+        ]
+    },
+    {
         "title": "Фракции",
         "elements": [
             {
                 "title": "Армия",
                 "name": "pages/fractions/army.md"
+            },
+            {
+                "title": "Полиция Лос-Сантоса",
+                "name": "pages/fractions/lspd.md"
             }
         ]
     }
