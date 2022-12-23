@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Фракции",
+        "elements": [
+            "title": "Армия",
+            "name": "pages/fractions/army.md"
+        ]
+    }
+]
