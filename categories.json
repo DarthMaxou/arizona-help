@@ -4,49 +4,49 @@
 		"elements": [
 			{
 
-				"name": "jobs/farm.html",
+				"name": "pages-old/jobs/farm.md",
 				"title": "Фермер"
 
 			},
 			{
 
-				"name": "jobs/landmower.html",
+				"name": "pages-old/jobs/landmower.md",
 				"title": "Газонокосильщик"
 
 			},
 			{
 
-				"name": "jobs/gopostal.html",
+				"name": "pages-old/jobs/gopostal.md",
 				"title": "Почтальон"
 
 			},
 			{
 
-				"name": "jobs/taxi.html",
+				"name": "pages-old/jobs/taxi.md",
 				"title": "Таксист"
 
 			},
 			{
 
-				"name": "jobs/busdriver.html",
+				"name": "pages-old/jobs/busdriver.md",
 				"title": "Водитель автобуса"
 
 			},
 			{
 
-				"name": "jobs/trucker.html",
+				"name": "pages-old/jobs/trucker.md",
 				"title": "Дальнобойщик"
 
 			},
 			{
 
-				"name": "jobs/collector.html",
+				"name": "pages-old/jobs/collector.md",
 				"title": "Инкассатор"
 
 			},
 			{
 
-				"name": "jobs/automechanic.html",
+				"name": "pages-old/jobs/automechanic.md",
 				"title": "Автомеханик"
 
 			}
@@ -57,49 +57,49 @@
 		"elements": [
 			{
 
-				"name": "fractions/army.html",
+				"name": "pages-old/pages-old/fractions/army.md",
 				"title": "ВВС Национальной гвардии"
 
 			},
 			{
 
-				"name": "fractions/cityhall.html",
+				"name": "pages-old/fractions/cityhall.md",
 				"title": "Мэрия города Лос-Сантос"
 
 			},
 			{
 
-				"name": "fractions/dmv.html",
+				"name": "pages-old/fractions/dmv.md",
 				"title": "Центр лицензирования"
 
 			},
 			{
 
-				"name": "fractions/ems.html",
+				"name": "pages-old/fractions/ems.md",
 				"title": "Госпиталь"
 
 			},
 			{
 
-				"name": "fractions/fbi.html",
+				"name": "pages-old/fractions/fbi.md",
 				"title": "ФИБ"
 
 			},
 			{
 
-				"name": "fractions/lspd.html",
+				"name": "pages-old/fractions/lspd.md",
 				"title": "Полиция Лос-Сантоса"
 
 			},
 			{
 
-				"name": "fractions/sheriff.html",
+				"name": "pages-old/fractions/sheriff.md",
 				"title": "Офис шерифа"
 
 			},
 			{
 
-				"name": "fractions/weazlenews.html",
+				"name": "pages-old/fractions/weazlenews.md",
 				"title": "Новостное агенство"
 
 			}
