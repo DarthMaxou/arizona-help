@@ -7,6 +7,19 @@
                 "name": "pages/general/howtostart.md"
             },
             {
+                "title": "Видос?",
+                "name": "pages/general/licenseget.md"
+            }
+        ]
+    },
+    {
+        "title": "Работы",
+        "elements": [
+            {
+                "title": "С чего начать?",
+                "name": "pages/general/howtostart.md"
+            },
+            {
                 "title": "С чего начать?",
                 "name": "pages/general/licenseget.md"
             }
