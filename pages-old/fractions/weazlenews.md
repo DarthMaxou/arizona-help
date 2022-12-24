@@ -1,13 +1,9 @@
-<div class="name">WeazelNews</div>
+## WeazelNews
 
-<div class="description">
-    Организация, являющаяся WeazelNews.
-    <br>
-    <br>
-    Доступные команды:<br>
-    1 ранг
-    <ul class="commands">
-        <li>/wl - радио-эфир</li>
-        <li>/wlg - добавить/исключить человека из эфира</li>
-    </ul>
-</div>
+Организация, являющаяся WeazelNews.  
+  
+Доступные команды:  
+1 ранг
+
+*   /wl - радио-эфир
+*   /wlg - добавить/исключить человека из эфира
